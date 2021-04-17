@@ -1,0 +1,4 @@
+line:1 of first commit
+line:2 of first commit
+line:3 of first commit
+line:4 of first commit
